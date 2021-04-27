@@ -2,7 +2,7 @@
 He trabajado en freedom devs como desarrollador Full Stacks realizando corrección de errores e implementando contenido multimedia.
 tambien he trabajado en el manejo y automatización de robots, metodos de inteligencia y visión artificial, creación y administración de base de datos, desarrollo de paginas web, entre otros.
 
-Aparte del trabajo, me encanta desarrollar codigo limpio y ofrecer buenas experiencias de usuario 💻😊.
+- Aparte del trabajo, me encanta desarrollar codigo limpio y ofrecer buenas experiencias de usuario 💻😊.
 
 <!---
 AlejandroDVA/AlejandroDVA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
